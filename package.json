@@ -1,0 +1,23 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "thu nghiem chat bot dau tien",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ewqasdcxz"
+  ],
+  "author": "hung vo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git"
+  }
+}
